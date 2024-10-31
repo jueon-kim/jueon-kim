@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 ![githubProfile](https://github.com/user-attachments/assets/9a7d45f7-c576-4c7b-9ad8-829159e33c79)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<div>  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+</div>
