@@ -11,11 +11,11 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
-    
-</picture>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github.com/anuraghazra/github-readme-stats" />
-</a>
+</a>    
+</picture>
+
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
