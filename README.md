@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>  
   
-  <p src=https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent></p>
+  <a src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"></a>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
