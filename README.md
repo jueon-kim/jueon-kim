@@ -1,3 +1,5 @@
+<div align=center>
+
 ![githubProfile](https://github.com/user-attachments/assets/9a7d45f7-c576-4c7b-9ad8-829159e33c79)
   
   <picture>
@@ -12,8 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />   
 </picture>
 
-<div align=center>
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
