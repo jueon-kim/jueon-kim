@@ -1,6 +1,5 @@
 <div align=center>
 
-## ![githubProfile](https://github.com/user-attachments/assets/9a7d45f7-c576-4c7b-9ad8-829159e33c79)
 
 <br>
   
